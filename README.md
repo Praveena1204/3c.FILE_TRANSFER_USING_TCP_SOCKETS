@@ -96,6 +96,7 @@ SERVER
 CLIENT
 ```
 <img width="814" height="206" alt="Screenshot 2025-09-24 104850" src="https://github.com/user-attachments/assets/26013094-ad2b-4fd3-8ab5-ff42a534e33d" />
+
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
